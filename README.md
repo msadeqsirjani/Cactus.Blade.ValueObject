@@ -4,7 +4,7 @@
 
 ## What is Cactus.Blade.ValueObject
 
-Cactus.Blade.ValueObject is a simple utility that solves a common problem pragmatically - storing and accessing objects quickly in a .NET app. It is designed with a specific vision in mind: provide a **simple solution for persisting objects**, even between sessions, that is unobtrusive and requires zero configuration.
+Cactus.Blade.ValueObject is a simple utility that solves a common problem pragmatically.
 
 ## Getting Started
 
