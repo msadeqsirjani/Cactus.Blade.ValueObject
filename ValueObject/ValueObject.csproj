@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Version>1.2.0</Version>
+    <Authors>Mohammad Sadeq Sirjani</Authors>
+    <Company>Mohammad Sadeq Sirjani</Company>
+    <Product>Cactus</Product>
+    <Copyright>@Copyright 2020</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/mohammadsadeqsirjani/Cactus/tree/master/ValueObject</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mohammadsadeqsirjani/Cactus/tree/master/ValueObject</RepositoryUrl>
+    <NeutralLanguage>C#</NeutralLanguage>
+    <PackageIcon>cactus.png</PackageIcon>
+    <PackageReleaseNotes>ValueObject is a micro library for easily creating C# classes with value semantics.</PackageReleaseNotes>
+    <Description>ValueObject is a micro library for easily creating C# classes with value semantics.</Description>
+    <AssemblyName>Cactus.Blade.ValueObject</AssemblyName>
+    <RootNamespace>Cactus.Blade.ValueObject</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Image\cactus.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

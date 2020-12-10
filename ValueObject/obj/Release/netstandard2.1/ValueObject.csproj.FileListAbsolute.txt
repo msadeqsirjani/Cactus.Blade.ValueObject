@@ -1,0 +1,8 @@
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\ValueObject\bin\Release\netstandard2.1\Cactus.Blade.ValueObject.deps.json
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\ValueObject\bin\Release\netstandard2.1\Cactus.Blade.ValueObject.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\ValueObject\bin\Release\netstandard2.1\Cactus.Blade.ValueObject.pdb
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\ValueObject\obj\Release\netstandard2.1\ValueObject.AssemblyInfoInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\ValueObject\obj\Release\netstandard2.1\ValueObject.AssemblyInfo.cs
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\ValueObject\obj\Release\netstandard2.1\ValueObject.csproj.CoreCompileInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\ValueObject\obj\Release\netstandard2.1\Cactus.Blade.ValueObject.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\ValueObject\obj\Release\netstandard2.1\Cactus.Blade.ValueObject.pdb
